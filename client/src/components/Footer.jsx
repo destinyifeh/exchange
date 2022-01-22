@@ -5,7 +5,7 @@ function Footer(){
 
     return(
         <div className="container-fluid footer text-center">
-            <p className="text-center">Follow us</p>
+            <p className="text-center text-white">Follow us</p>
             <Link className="" to=""> <i className="fa fa-whatsapp "></i></Link>
            <Link className="" to=""> <i className="fa fa-facebook "></i></Link>
             <Link className="" to=""><i className="fa fa-instagram "></i></Link>

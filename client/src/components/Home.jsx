@@ -188,7 +188,7 @@ function Home(){
                <textarea className="form-control" rows="5"></textarea>
              </div>
              <div className="form-group my-3">
-              <button className="btn contact-btn" type="submit">Send</button>
+              <button className="btn contact-btn text-white" type="submit">Send</button>
              </div>
            </form>
          </div>
